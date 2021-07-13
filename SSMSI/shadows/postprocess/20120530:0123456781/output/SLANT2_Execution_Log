@@ -1,0 +1,29 @@
+...................1 th pass rank 2 ..
+	ThetaX=5.000011	ThetaY=5.000000
+	Source Strength=50.231659
+...................2 th pass rank 2 ..
+	ThetaX=5.800010	ThetaY=8.000000
+	Source Strength=0.950131
+...................3 th pass rank 2 ..
+	ThetaX=5.000011	ThetaY=5.000000
+	Source Strength=-0.221646
+...................4 th pass rank 2 ..
+	ThetaX=5.800010	ThetaY=8.000000
+	Source Strength=0.049263
+...................5 th pass rank 2 ..
+	ThetaX=5.000011	ThetaY=4.000000
+	Source Strength=-0.010290
+...................6 th pass rank 2 ..
+	ThetaX=-4.199985	ThetaY=-33.000000
+	Source Strength=0.006684
+
+-----------------------Processing Complete by thread 2 -------------------
+NoOfGrids processed=23751
+X Resolution=0.100000	Y Resolution=1.000000
+No of sources Found =2
+sources with their position and strength
+
+	ThetaX		ThetaY		sourcestrength
+
+	5.000011 	 5.000000 	 49.999722
+	5.800010 	 8.000000 	 0.999394

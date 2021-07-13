@@ -1,0 +1,10 @@
+Assuming the following three energy bands:
+		2.7keV to 4.8keV
+		4.8keV to 6.5keV
+		6.5keV to 10keV
+
+Have hard-coded these values in the awk script "avg_mfp.awk"
+
+<(ravibt@a)/data1/ravibt/ASTROSAT/SSM/etc/MEAN_FREE_PATH>awk -f avg_mfp.awk mfp.dat > avg_mfp.dat
+
+Ravi (Tue Jul 22 13:54:58 IST 2008)

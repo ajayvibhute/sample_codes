@@ -1,0 +1,23 @@
+moduleid,i,ql,15,0,15,"Enter module no"
+Zs,r,ql,897.5,0,,"Enter source z"
+xstart,r,ql,-19,0,,"Enter x start"
+xend,r,ql,19,0,,"Enter x end"
+ystart,r,ql,-19,0,,"Enter y start"
+yend,r,ql,19,0,,"Enter y end"
+resolution,r,ql,0.25,0,,"Enter resolutin"
+dphfilename,f,ql,"/data1/project/castro/imaging_data/20130729_MULTI_Am2+Co2_QM_CAM_multipos_c1+c3/dph/20130729_161532_MULTI_Co2_600_022C_40keV_regular.dph",,,"Enter DPH file name"
+badpixfilename,f,ql,"qemap/mod_15.badpix",,,"Enter bad pix file name"
+qeFilename,f,ql,"qemap/mod_15.qemap",,,"Enter QE Map file name"
+correlationfilename,f,ql,"correlation/20130729_161532_MULTI_Co2_600_022C_40keV_regular.fits",,,"Enter output correlation file name"
+
+outputtofile,b,ql,yes,,,"Output to file (YES/NO)"
+
+
+
+
+
+Xs,r,ql,correlation/20130306_160911_MULTI_Co2_600_023C_40keV_regular.fits,0,,"Enter source x"
+Ys,r,ql,0,0,,"Enter source y"
+maskfile,f,ql,"/data1/project/castro/ajay/CZT/newMaskDesign/compMask.fits",,,"Enter compressed mask file (8100 X 270)"
+
+
